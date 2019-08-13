@@ -1,0 +1,31 @@
+.blueButton {
+    background-color: #17385f;
+    color: #ffffff;
+    height: 70px;
+    width: 270px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 15pt;
+}
+
+.greenButton {
+    background-color: #71af44;
+    color: #ffffff;
+    height: 70px;
+    width: 110px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 21pt;
+}
+
+.divCenter {
+    width: 100%;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13pt;
+}
